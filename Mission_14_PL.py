@@ -1,5 +1,5 @@
 #Mission #14 https://www.youtube.com/watch?v=T2unHs55Shs
-#Description [PL] www.bartekzoltowski.pl/programowanie/Gyn_Misja_014
+#Description [PL] http://www.bartekzoltowski.pl/misja-014-by-gynvaelcoldwind/
 from Crypto.Cipher import AES
 from Crypto.Hash import MD5
 import os
